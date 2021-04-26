@@ -2,3 +2,4 @@ com/miftarom/prj1/BuildConfig.java
  com.miftarom.prj1.BuildConfig
 com/miftarom/prj1/MainActivity.java
  com.miftarom.prj1.MainActivity
+ com.miftarom.prj1.MainActivity$1

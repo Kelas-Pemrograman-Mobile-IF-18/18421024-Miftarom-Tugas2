@@ -1455,6 +1455,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btnSubmit
 id buttonPanel
 id cancel_button
 id center
@@ -1492,6 +1493,13 @@ id direct
 id disableHome
 id dropdown_menu
 id edit_query
+id edtAlamat
+id edtFakultas
+id edtGender
+id edtNama
+id edtNpm
+id edtProdi
+id edtTelp
 id end
 id enterAlways
 id enterAlwaysCollapsed
@@ -1666,9 +1674,7 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
-id txtNama
-id txtNpm
-id txtProdi
+id txtTampilkan
 id unchecked
 id uniform
 id unlabeled
